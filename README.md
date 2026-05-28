@@ -66,10 +66,8 @@ A simple rule-based chatbot that responds to user input using predefined conditi
 Run each Python file using:
 
  bash
-python Chatbot.py
-
-python Hangman.py
-
+python Chatbot.py/
+python Hangman.py/
 python Stock_Tracker.py
 
 
