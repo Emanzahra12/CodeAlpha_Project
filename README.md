@@ -45,19 +45,17 @@ A simple rule-based chatbot that responds to user input using predefined conditi
   - Strings
   - Input/Output handling
 
- **Project Structure**
- 
- CodeAlpha_Project/
-
+  **Project Structure**
+  CodeAlpha_Project/
 │
 ├── Task1_Chatbot/
-│   └── Chatbot.py
+│ └── Chatbot.py
 │
 ├── Task2_Hangman/
-│   └── Hangman.py
+│ └── Hangman.py
 │
 ├── Task3_StockTracker/
-│   └── Stock_Tracker.py
+│ └── Stock_Tracker.py
 │
 └── README.md
 
