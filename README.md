@@ -48,6 +48,7 @@ A simple rule-based chatbot that responds to user input using predefined conditi
  **Project Structure**
  
  CodeAlpha_Project/
+
 │
 ├── Task1_Chatbot/
 │   └── Chatbot.py
@@ -66,8 +67,11 @@ Run each Python file using:
 
  bash
 python Chatbot.py
+
 python Hangman.py
+
 python Stock_Tracker.py
+
 
 **Author**
 Eman Zahra  
